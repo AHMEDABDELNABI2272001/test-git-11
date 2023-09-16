@@ -7,7 +7,10 @@ class Homescreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.amber,
-        title: Text('git'),
+        title: Text(
+          'git',
+          style: TextStyle(fontSize: 25),
+        ),
         centerTitle: true,
       ),
     );
