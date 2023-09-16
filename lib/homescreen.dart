@@ -8,7 +8,7 @@ class Homescreen extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.amber,
         title: Text(
-          'git',
+          'git1',
           style: TextStyle(fontSize: 25),
         ),
         centerTitle: true,
